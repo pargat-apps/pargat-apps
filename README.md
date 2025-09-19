@@ -5,8 +5,6 @@
 
 ---
 
-## 🚀 Live Projects  
-
 <p align="center">
   <a href="https://pargat-apps.github.io/crypto-tracker/">
     🔗 <b>Crypto Tracker</b>
