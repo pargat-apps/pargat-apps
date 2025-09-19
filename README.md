@@ -11,21 +11,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pargat-apps&theme=onedark&row=1&column=6" alt="trophies" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🔹 [Crypto Tracker](https://pargat-apps.github.io/crypto-tracker/)  
-Real-time cryptocurrency tracker with comparison, search, sorting, dark mode, and persistence.  
-
-### 🔹 [LCOF2477](https://pargat-apps.github.io/LCOF2477/)  
-Interactive solution to LeetCode Coin Distribution Problem with visualization.  
-
----
