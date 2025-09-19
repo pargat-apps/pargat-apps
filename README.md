@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pargat Singh</h1>
 <h3 align="center">🚀 Full-Stack Developer | Debugging life, one commit at a time | ☕ Coffee-powered Dev</h3>
 
----
-
-## 🌟 About Me  
-- 🎓 Student at **Lambton College, Ottawa (Canada)**  
-- 💻 Passionate about **Web Development & Blockchain**  
-- 🚀 Currently building cool projects with **React, Node.js, and Solidity**  
-- 🎯 Always learning and exploring new technologies  
-
----
-
-## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pargat-apps&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pargat-apps&layout=compact&theme=tokyonight" alt="langs" height="150"/>
