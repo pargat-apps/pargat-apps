@@ -1,13 +1,9 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pargat+Singh;Full+Stack+Developer;React+%26+TypeScript+Enthusiast" alt="Typing SVG" />
 
-<br>
-
 <!-- Contact Links -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://pargatfolio.com/-6366F1?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1B4B)](https://pargatfolio.com/)
 [![Email](https://img.shields.io/badge/📧_Email-c0956007@mylambton.ca-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=881337)](mailto:c0956007@mylambton.ca)
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -19,8 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-<br>
 
 ## 📊 GitHub Statistics
 
@@ -43,8 +37,6 @@
 </td>
 </tr>
 </table>
-
-<br>
 
 ## 🌟 Featured Projects
 
@@ -91,23 +83,15 @@
 </tr>
 </table>
 
-<br>
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pargat-apps&theme=tokyonight&hide_border=true&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_title=true" alt="Contribution Graph" />
-
-<br>
 
 ---
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=pargat-apps&color=6366F1&style=for-the-badge&label=👀%20Profile%20Views)
-
-<br>
 
 **⭐ Star this repository if you found it helpful!**
 
