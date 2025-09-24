@@ -72,10 +72,6 @@
 </tr>
 </table>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pargat-apps&theme=tokyonight&hide_border=true&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_title=true" alt="Contribution Graph" />
-
 ---
 
 <div align="center">
