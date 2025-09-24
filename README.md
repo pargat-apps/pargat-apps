@@ -102,8 +102,6 @@
   </div>
 </div>
 
-</div>
-
 <!-- Optimized CSS -->
 <style>
 /* Profile Section */
