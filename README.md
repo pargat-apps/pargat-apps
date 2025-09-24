@@ -44,40 +44,46 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🌐 Portfolio Website
 **Modern React TypeScript Portfolio**
 
 ✨ **Features:**
-- Dark/Light theme toggle
-- Smooth animations
-- Responsive design
-- Interactive elements
+- Dark/Light theme toggle with smooth transitions
+- Interactive animations using Framer Motion
+- Fully responsive design for all devices
+- Modern UI/UX with shadcn/ui components
+- Auto-activated cursor-following cat using oneko.js
 
 🛠️ **Tech Stack:**
 - React + TypeScript
 - Tailwind CSS
 - Framer Motion
+- Vite for fast development
+- GitHub Pages deployment
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://pargatfolio.com/)
 
 </td>
-<td width="50%">
+<td width="40%">
 
 ### 💰 Crypto Tracker
 **Real-time Cryptocurrency Tracker**
 
 ✨ **Features:**
-- Live price updates
-- Portfolio tracking
-- Market analysis
-- Responsive design
+- Live price updates with WebSocket connections
+- Portfolio tracking and management
+- Market analysis and trends
+- Responsive design for mobile and desktop
+- Real-time notifications for price changes
 
 🛠️ **Tech Stack:**
 - React + TypeScript
-- Real-time APIs
-- Modern UI/UX
+- Real-time APIs integration
+- Modern UI/UX design
+- Chart.js for data visualization
+- Local storage for user preferences
 
 [![View Code](https://img.shields.io/badge/💻_View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pargat-apps/crypto-tracker)
 
