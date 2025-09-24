@@ -20,19 +20,21 @@
 
 <table width="100%">
 <tr>
-<td width="33%">
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pargat-apps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20Activity&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1&border_color=6366f1&hide_title=true" alt="GitHub Stats" />
-
-</td>
-<td width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pargat-apps&layout=compact&theme=tokyonight&hide_border=true&custom_title=💻%20Languages&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1&border_color=6366f1&hide_title=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=pargat-apps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20Activity&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1&border_color=6366f1&hide_title=true" alt="GitHub Stats" width="100%" />
 
 </td>
-<td width="33%">
+<td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pargat-apps&theme=tokyonight&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1&border_color=6366f1" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pargat-apps&layout=compact&theme=tokyonight&hide_border=true&custom_title=💻%20Languages&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1&border_color=6366f1&hide_title=true" alt="Top Languages" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pargat-apps&theme=tokyonight&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1&border_color=6366f1" alt="GitHub Streak" width="100%" />
 
 </td>
 </tr>
