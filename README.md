@@ -83,24 +83,7 @@
 
 <br>
 
-<!-- Compact Snake Game -->
-<div class="snake-section">
-  <img src="https://raw.githubusercontent.com/pargat-apps/pargat-apps/output/github-contribution-grid-snake.svg" alt="Snake Game" class="snake-game" />
-</div>
 
-<br>
-
-<!-- Compact Footer -->
-<div class="footer-section">
-  <div class="quote-compact">
-    💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  </div>
-  <div class="footer-links">
-    <a href="https://pargatfolio.com/">⭐ Star this repo if helpful!</a>
-    <span>•</span>
-    <span>Made with ❤️ by <a href="https://pargatfolio.com/">Pargat Singh</a></span>
-  </div>
-</div>
 
 </div>
 
