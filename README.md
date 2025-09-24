@@ -78,10 +78,74 @@
 
 ---
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+<div align="center">
 
+## 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📊 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=pargat-apps&color=6366F1&style=for-the-badge&label=👀%20Profile%20Views)
 
-**⭐ Star this repository if you found it helpful!**
+</td>
+<td align="center" width="50%">
 
-*Made with ❤️ by [Pargat Singh](https://pargatfolio.com/)*
+### 🌟 Support
+[![GitHub followers](https://img.shields.io/github/followers/pargat-apps?label=Followers&style=for-the-badge&color=6366F1&logo=github)](https://github.com/pargat-apps)
+[![GitHub stars](https://img.shields.io/github/stars/pargat-apps?label=Stars&style=for-the-badge&color=6366F1&logo=github)](https://github.com/pargat-apps)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### ⭐ **Star this repository if you found it helpful!**
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🚀 Quick Links
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://pargatfolio.com/)
+[![Email](https://img.shields.io/badge/📧_Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c0956007@mylambton.ca)
+
+</td>
+<td align="center" width="33%">
+
+### 💼 Professional
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pargat-singh)
+[![Resume](https://img.shields.io/badge/📄_Resume-6366F1?style=for-the-badge&logo=adobe&logoColor=white)](https://pargatfolio.com/)
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 Goals
+- 🚀 Building amazing web apps
+- 📚 Learning new technologies
+- 🌟 Contributing to open source
+- 💡 Creating innovative solutions
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### 💻 *Made with ❤️ by [Pargat Singh](https://pargatfolio.com/)*
+
+<div align="center">
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=pargat-apps&theme=tokyonight&hide_border=true&custom_title=📈%20Recent%20Activity&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_title=true)
+
+</div>
+
+</div>
