@@ -5,9 +5,6 @@
 
 <br><br>
 
-<!-- Profile Picture -->
-<img src="https://github.com/pargat-apps/pargat-apps/assets/placeholder-profile-pic" alt="Pargat Singh" width="120" style="border-radius: 50%; border: 3px solid #6366F1;" />
-
 <br><br>
 
 <!-- Contact Links -->
