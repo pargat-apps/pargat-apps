@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pargat+Singh;Full+Stack+Developer;React+%26+TypeScript+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pargat+Singh;Full+Stack+Developer;MERN" alt="Typing SVG" />
 
 <!-- Contact Links -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://pargatfolio.com/-6366F1?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1B4B)](https://pargatfolio.com/)
